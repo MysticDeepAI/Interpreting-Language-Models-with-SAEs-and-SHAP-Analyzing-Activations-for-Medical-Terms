@@ -1,6 +1,6 @@
 # Interpreting Language Models with SAEs and SHAP: Analyzing Activations for Medical Terms
 
-This repository contains the implementation of my independent research project for the MATS 7.0 program. The project, developed by Gilber A. Corrales, focuses on interpreting language models using Sparse Autoencoders (SAEs) and SHapley Additive exPlanations (SHAP). The goal is to analyze the feature activations within the GPT-2 small model when exposed to medical and non-medical prompts, exploring how certain neurons respond to specific types of content.
+This repository contains the implementation of my independent research project for the MATS 7.0 program. The project, developed by Gilber A. Corrales, focuses on interpreting language models using Sparse Autoencoders (SAEs) and SHapley Additive exPlanations (SHAP). This work was completed as part of a 10-hour research sprint to analyze the feature activations within the GPT-2 small model when exposed to medical and non-medical prompts, exploring how certain neurons respond to specific types of content.
 
 ## Methodology
 
